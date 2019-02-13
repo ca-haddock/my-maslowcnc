@@ -3,6 +3,12 @@
 buid a poor man cnc 
 
 
-==Webpage==
+## Webpage
 
 https://www.maslowcnc.com
+
+
+## Parts
+
+### Motor
+http://www.etonm.com
